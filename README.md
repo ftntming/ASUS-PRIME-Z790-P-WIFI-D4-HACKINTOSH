@@ -18,7 +18,3 @@
 - [English](https://dlcdnets.asus.com/pub/ASUS/mb/LGA1700/PRIME_Z790-P_WIFI_D4/E20550_PRIME_Z790-P_WIFI_D4_UM_WEB.pdf)
 
 - [简体中文](https://dlcdnets.asus.com/pub/ASUS/mb/LGA1700/PRIME_Z790-P_WIFI_D4/C20550_PRIME_Z790-P_WIFI_D4_UM_WEB.pdf)
-
-## Testing
-
-## 测试中
